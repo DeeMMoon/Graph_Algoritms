@@ -1,0 +1,3 @@
+C:/Users/dim22/Graph/cmake-build-debug/CMakeFiles/Graph.dir
+C:/Users/dim22/Graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dim22/Graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
