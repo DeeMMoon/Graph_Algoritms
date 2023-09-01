@@ -4,7 +4,7 @@
 
 ## Contents
 
-3. [Tasks](#tasks) \
+[Tasks](#tasks) \
     1.1. [Part 1](#part-1-depth--and-breadth-first-search)  
     1.2. [Part 2](#part-2-finding-the-shortest-paths-in-a-graph)  
     1.3. [Part 3](#part-3-finding-the-minimum-spanning-tree)  
